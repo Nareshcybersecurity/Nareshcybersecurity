@@ -56,12 +56,6 @@
     <img src="https://github.com/Nareshcybersecurity/Nareshcybersecurity/assets/113019398/ade4d4bd-9c27-4fa5-8d6d-e29b88a93fd5"/>
     <img src="https://github.com/Nareshcybersecurity/Nareshcybersecurity/assets/113019398/ea013280-f1db-46e8-928b-b03cc7945da5"/>                
   </div>
-  <div>
-    <h3>Connect With Me</h3>
-    <img src="https://github.com/Nareshcybersecurity/Nareshcybersecurity/assets/113019398/1f48266c-3aa7-4701-ac08-f008f5af786d"/>
-    <img src="https://github.com/Nareshcybersecurity/Nareshcybersecurity/assets/113019398/597b2b70-ec73-4c4f-8d21-03dfdab6f2c4"/>
-    <img src="https://github.com/Nareshcybersecurity/Nareshcybersecurity/assets/113019398/60c9be8c-1343-4b6b-89a1-d64152e94c1c"/>
-  </div>
 </div>
   </body>
   </html>
