@@ -1,25 +1,10 @@
-### Hi there 👋
-
-<!--
-**Nareshcybersecurity/Nareshcybersecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi There
 <!DOCTYPE html>
 <html>
   <head> 
   </head>
   <body>
-    <h1>Iam Naresh Ramalingam</h1>
+    <h1><b>Iam Naresh Ramalingam</b></h1>
     <h2>Welcome to my Github Profile</h2>
     <ul>
       <li>Iam Currently studying Bachelor of Engineering in Computer Science</li>
@@ -51,7 +36,32 @@ Here are some ideas to get you started:
 <div class="database">
   <h3 class="Front-end skill">DataBases</h3>
   <img src="https://github.com/Nareshcybersecurity/Nareshcybersecurity/assets/113019398/d1928e54-5be7-425c-9afa-cf4335097eef)"/>
-  <img src="(https://github.com/Nareshcybersecurity/Nareshcybersecurity/assets/113019398/3b1fb667-049a-46bd-9e7a-a4b2be5f287a"/>
+  <img src="https://github.com/Nareshcybersecurity/Nareshcybersecurity/assets/113019398/3b1fb667-049a-46bd-9e7a-a4b2be5f287a"/>
+</div
+<div>
+  <div>
+    <h3>Tools</h3>
+    <div>
+      <img src="https://github.com/Nareshcybersecurity/Nareshcybersecurity/assets/113019398/3b1d002e-43a6-44c5-b7b4-3632563bdf0a"/>
+      <img src="https://github.com/Nareshcybersecurity/Nareshcybersecurity/assets/113019398/3527c2a7-4318-4350-8cdb-3c04dd615c1a"/>
+      <img src="https://github.com/Nareshcybersecurity/Nareshcybersecurity/assets/113019398/5d9bbc0d-ade6-4e05-86e7-ffdfc305b5ec"/>
+      <img src="https://github.com/Nareshcybersecurity/Nareshcybersecurity/assets/113019398/33d2f67d-2f2b-4e1a-9971-121d42219e5d"/>
+      <img src="https://github.com/Nareshcybersecurity/Nareshcybersecurity/assets/113019398/e84a7fd3-9267-45cd-9623-37e3a2c8b8e2"/>
+      <img src="https://github.com/Nareshcybersecurity/Nareshcybersecurity/assets/113019398/d51fdd98-1641-46df-976e-73afeff967c7"/>
+      <img src="https://github.com/Nareshcybersecurity/Nareshcybersecurity/assets/113019398/ccffd5a1-bd81-4541-ab06-a458f4516632"/>
+      <img src="https://github.com/Nareshcybersecurity/Nareshcybersecurity/assets/113019398/132ee9ec-3d2e-4587-bce1-aef16b721503"/>
+    </div>
+    <div>
+    <h3>Design</h3>
+    <img src="https://github.com/Nareshcybersecurity/Nareshcybersecurity/assets/113019398/ade4d4bd-9c27-4fa5-8d6d-e29b88a93fd5"/>
+    <img src="https://github.com/Nareshcybersecurity/Nareshcybersecurity/assets/113019398/ea013280-f1db-46e8-928b-b03cc7945da5"/>                
+  </div>
+  <div>
+    <h3>Connect With Me</h3>
+    <img src="https://github.com/Nareshcybersecurity/Nareshcybersecurity/assets/113019398/1f48266c-3aa7-4701-ac08-f008f5af786d"/>
+    <img src="https://github.com/Nareshcybersecurity/Nareshcybersecurity/assets/113019398/597b2b70-ec73-4c4f-8d21-03dfdab6f2c4"/>
+    <img src="https://github.com/Nareshcybersecurity/Nareshcybersecurity/assets/113019398/60c9be8c-1343-4b6b-89a1-d64152e94c1c"/>
+  </div>
 </div>
   </body>
   </html>
