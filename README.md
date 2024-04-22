@@ -10,7 +10,7 @@
       <li>Iam Currently studying Bachelor of Engineering in Computer Science</li>
       <li>Aspiring Web Developer</li>
       <li>Cyber Securtiy Enthusiast</li>
-      <li>Contact me?: nareshramalingam96@gmail.com</li>
+      <li>Contact me: nareshramalingam96@gmail.com</li>
     </ul>
     <div class="about">
       <h2>About me </h2>
