@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="50">
+  <foreignObject width="100%" height="100%">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        /* Fallbacks mapped to root so your vars keep working */
+        :root {
+          --line: rgba(255, 255, 255, 0.15);
+          --green: #10b981;
+          --mono: monospace;
+        }
+        body {
+          margin: 0;
+          color: #e2e8f0;
+        }
+        .marquee { 
+          overflow: hidden; 
+          border-top: 1px solid var(--line); 
+          border-bottom: 1px solid var(--line); 
+          padding: 18px 0; 
+          background: rgba(5,7,18,.6); 
+        }
+        .marquee-track { 
+          width: max-content; 
+          display: flex; 
+          align-items: center; 
+          animation: marquee 30s linear infinite; 
+          font: 500 11px var(--mono); 
+          letter-spacing: .08em; 
+        }
+        .marquee-track span { 
+          margin: 0 30px; 
+        }
+        .marquee-track i { 
+          color: var(--green); 
+          font-style: normal; 
+        }
+        @keyframes marquee {
+          0% { transform: translateX(0); }
+          100% { transform: translateX(-50%); }
+        }
+      </style>
+      
+      <div class="marquee" aria-hidden="true">
+        <div class="marquee-track">
+          <span>LINUX</span><i>✦</i><span>AWS</span><i>✦</i><span>BASH</span><i>✦</i><span>KUBERNETES</span><i>✦</i><span>TERRAFORM</span><i>✦</i><span>DOCKER</span><i>✦</i><span>ANSIBLE</span><i>✦</i><span>GITHUB ACTIONS</span><i>✦</i><span>PROMETHEUS</span><i>✦</i><span>GRAFANA</span><i>✦</i><span>ELK STACK</span><i>✦</i><span>PYTHON</span><i>✦</i>
+          <span>LINUX</span><i>✦</i><span>AWS</span><i>✦</i><span>BASH</span><i>✦</i><span>KUBERNETES</span><i>✦</i><span>TERRAFORM</span><i>✦</i><span>DOCKER</span><i>✦</i><span>ANSIBLE</span><i>✦</i><span>GITHUB ACTIONS</span><i>✦</i><span>PROMETHEUS</span><i>✦</i><span>GRAFANA</span><i>✦</i><span>ELK STACK</span><i>✦</i><span>PYTHON</span><i>✦</i>
+        </div>
+      </div>
+    </html>
+  </foreignObject>
+</svg>
